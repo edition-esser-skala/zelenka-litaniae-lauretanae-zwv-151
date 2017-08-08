@@ -1,0 +1,36 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% (c) 2017 by Wolfgang Skala.
+% This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+% To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+J. D. Zelenka: Litaniae Lauretanae Consolatrix Afflictorum ZWV 151
+Engraving files for LilyPond 2.18.0
+First edition, May 2017
+
+
+
+Contents of this archive:
+
+LitaniaeLauretanaeCA.ly - The master file. Run lilypond on this file to create the various scores.
+Noten/N_1_Oboe1.ly
+Noten/N_2_Oboe2.ly
+Noten/N_3_Violino1.ly
+Noten/N_4_Violino2.ly
+Noten/N_5_Viola.ly
+Noten/N_6_Soprano.ly
+Noten/N_7_Alto.ly
+Noten/N_8_Tenore.ly
+Noten/N_9_Basso.ly
+Noten/N_10_BassiEdOrgano.ly - Individual voices.
+Partituren/P_Bassi.ly
+Partituren/P_Coro.ly
+Partituren/P_Oboe1.ly
+Partituren/P_Oboe2.ly
+Partituren/P_Organo.ly
+Partituren/P_Partitur.ly
+Partituren/P_Viola.ly
+Partituren/P_Violino1.ly
+Partituren/P_Violino2.ly - Score and parts definitions.
